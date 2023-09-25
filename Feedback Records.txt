@@ -1,0 +1,6 @@
+CD010	4	None	ST010
+CD004	2	Connie was a good coach on archery. She always take her full dedication to teach.	ST002
+CD007	1	Edwin was a poor teacher.	ST009
+CD009	5	Tommy has great teaching skills. Keep it up, Tommy!	ST006
+CD001	3	None	ST008
+CD003	4	Herbert is a good coach. Keep it up!!!	ST011

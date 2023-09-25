@@ -1,0 +1,11 @@
+CD001	Jason Leong	2/10/2001	None	150.0	0138760985	6, Jalan Gembira, Taman Cemerlang, 56000, Cheras, Kuala Lumpur	SC001	Kuala Lumpur	SP001	Swimming	3
+CD002	Aiden	4/1/2005	None	250.0	0189587660	25, Jalan Roti, Taman Canai, 56000, Cheras, Kuala Lumpur	SC001	Kuala Lumpur	SP002	Badminton	None
+CD003	Herbert	15/10/2010	None	100.0	0128674903	67, Jalan Maju, Taman Berjaya, 43200, Shah Alam, Selangor	SC002	Selangor	SP003	Football	4
+CD004	Connie	13/6/2005	None	230.0	013874058	12, Jalan Nasi, Taman Lemak, 43200, Shah Alam, Selangor	SC002	Selangor	SP004	Archery	2
+CD005	Shawn	15/11/2004	None	300.0	0168473850	23, Jalan Bangsa, Taman Kambing, 88100, Sandakan, Sabah	SC003	Sabah	SP005	Gymnastics	None
+CD006	Lilian	15/4/2009	None	200.0	0118573098	55, Jalan Ikan, Taman Sungai, 88100, Sandakan, Sabah	SC003	Sabah	SP006	Volleyball	None
+CD007	Edwin	25/5/2011	None	150.0	0187584730	35, Jalan Nasi, Taman Goreng, 05000, Alor Setar, Kedah	SC004	Kedah	SP007	Basketball	1
+CD008	Alice	26/2/2003	None	250.0	0108473685	22, Jalan Bising, Taman Senyap, 05000, Alor Setar, Kedah	SC004	Kedah	SP008	Cricket	None
+CD009	Tommy	5/9/2009	None	260.0	0113748964	12, Jalan Monyet, Taman Haiwan, 93200, Miri, Sarawak	SC005	Sarawak	SP009	Tennis	5
+CD010	Brianna	29/11/2020	None	150.0	0105837059	10, Jalan Berjaya, Taman Kuching, 93200, Miri, Sarawak	SC005	Sarawak	SP010	Table Tennis	4
+CD011	Jackson Lee	5/11/2010	None	300.0	0179476993	25, Jalan Waja, Taman Cerah, 56000, Cheras, Kuala Lumpur	SC002	Selangor	SP011	Cricket	None

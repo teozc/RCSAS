@@ -1,0 +1,11 @@
+SP001	Swimming	SC001
+SP002	Badminton	SC001
+SP003	Football	SC002
+SP004	Archery	SC002
+SP005	Gymnastics	SC003
+SP006	Volleyball	SC003
+SP007	Basketball	SC004
+SP008	Cricket	SC004
+SP009	Tennis	SC005
+SP010	Table Tennis	SC005
+SP011	Cricket	SC002

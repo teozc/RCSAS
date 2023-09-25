@@ -1,0 +1,5 @@
+SC001	Kuala Lumpur
+SC002	Selangor
+SC003	Sabah
+SC004	Kedah
+SC005	Sarawak
